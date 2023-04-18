@@ -1,0 +1,390 @@
+##MainMenu
+MainMenu.DashPoker:DASH POKER
+MainMenu.LowballPoker:LOWBALL POKER
+MainMenu.PrivateRoom:SALON PRIVÉ
+MainMenu.Tournament:TOURNOIS
+MainMenu.Inventary:INVENTAIRE
+MainMenu.ConnectingToTable:Connexion à la table
+MainMenu.DisconnectingFromTable:Sortir de derrière la table
+
+##Settings
+Settings.Settings:Configuration
+Settings.Sound:Effets sonores
+Settings.Music:MUSIQUE
+Settings.Vibration:Vibration
+Settings.Hands:Mains
+Settings.Hints:Info
+Settings.Friends:Amis
+Settings.Apply:Appliquer
+
+##Notifications
+Notification.KickedAFK:Vous avez été déconnecté pour inactivité
+
+##PlayerPanel
+PlayerPanel.Level:Niveau
+PlayerPanel.Shop:ACHETER
+
+##ProfileWindow
+ProfileWindow.PlayerSince:Joueur depuis
+ProfileWindow.Level:Niveau
+ProfileWindow.HandsPlayed:Nombre de mains jouées
+ProfileWindow.BestHand:Meilleure main
+ProfileWindow.HandsWon:Nombre de mains gagnées
+ProfileWindow.BiggestPot:Plus gros pots remportés
+ProfileWindow.SitNGoWon:Tournois Sit & Go remportés
+ProfileWindow.InputNickname:Saisissez le nouveau surnom
+ProfileWindow.ChoseCountry:Choisissez votre pays
+ProfileWindow.Confirm:Appliquer
+ProfileWindow.PickImage:Choisissez une image PNG
+
+##WindowWithMoney
+WindowWithMoney.TexasPoker:TEXAS POKER
+WindowWithMoney.RoyalPoker:ROYAL POKER
+WindowWithMoney.DashPoker:DASH POKER
+WindowWithMoney.LowballPoker:LOWBALL POKER
+WindowWithMoney.JokerPoker:JOKER POKER
+WindowWithMoney.NotEnoughMoney:Pas assez de jetons
+WindowWithMoney.Blinds:Blinds
+WindowWithMoney.AutoTopOff:Rechargement automatique off
+WindowWithMoney.AutoTopOn:Rechargement automatique on
+WindowWithMoney.LetsGo:Jouer!
+WindowWithMoney.BuyIn:APPORT
+WindowWithMoney.HowMuchTake:Choisissez la mise initiale?
+WindowWithMoney.FixBlindTake:Continuez?
+
+##SitNGoWindowWithMoney
+SitNGoWindowWithMoney.Description:SIT & GO
+SitNGoWindowWithMoney.BuyIn:APPORT
+SitNGoWindowWithMoney.1stPlace:1ère place
+SitNGoWindowWithMoney.2ndPlace:2ème place
+SitNGoWindowWithMoney.BlindsStarts:Blinds à partir de
+SitNGoWindowWithMoney.BlindsLevels:Les blinds augmentent par paliers
+SitNGoWindowWithMoney.SatrtingChips:Jetons de départ
+SitNGoWindowWithMoney.NotEnoughMoney:Pas assez de jetons
+SitNGoWindowWithMoney.LetsGo:Jouer!
+SitNGoWindowWithMoney.TryAgain:Jouer encore
+
+##SitNGoFinishWindow
+SitNGoFinishWindow.Name:SIT & GO
+SitNGoFinishWindow.Congratulations:Félicitations!
+SitNGoFinishWindow.Lose:Pas mal!
+SitNGoFinishWindow.1stPlace:Vous avez obtenu la 1ère place
+SitNGoFinishWindow.2ndPlace:Vous avez obtenu la 2ème place
+SitNGoFinishWindow.3rdPlace:Vous avez obtenu la 3ème place
+SitNGoFinishWindow.4thPlace:Vous avez obtenu la 4ème place
+SitNGoFinishWindow.5thPlace:Vous avez obtenu la 5ème place
+SitNGoFinishWindow.YouWon:Vous avez gagné
+SitNGoFinishWindow.TryAgain:Jouer encore
+
+##LuckySpin
+LuckySpin.Spin:SPIN
+LuckySpin.YouWon:Vous avez gagné
+LuckySpin.Chips:Jetons
+LuckySpin.SpinFree:SPIN GRATUIT
+LuckySpin.NoThanks:NON, MERCI
+LuckySpin.GetChips:RÉCUPÉRER LES JETONS
+LuckySpin.Quit:QUITTER
+
+##Worlds
+Worlds.Chillout:CHILL OUT
+Worlds.Insomnia:INSOMNIE
+Worlds.Underground:SOUTERRAIN
+Worlds.Business:BUSINESS
+
+##WorldsInside
+WorldsInside.JokerPoker:Joker Poker
+WorldsInside.TexasPoker:Texas Poker
+WorldsInside.RoyalPoker:Royal Poker
+WorldsInside.SitNGo:Sit & Go
+
+##Chillout
+Chillout.Name:CHILL OUT
+Chillout.RivieraHotel:Riviera Hôtel
+Chillout.ShishaBar:Shisha Bar
+Chillout.BeachClub:Plage Club
+Chillout.IbizaDisco:Ibiza Disco
+Chillout.WetDeskLounge:Surf Salon
+Chillout.TropicalHouse:Tropical House
+Chillout.Description:Jouer décontracté
+
+##Insomnia
+Insomnia.Name:INSOMNIE
+Insomnia.SevenNightsClub:Sept Nuits Club
+Insomnia.MirageCasino:Mirage Casino
+Insomnia.CityDreamsResort:Village des Rêves Resort
+Insomnia.SunriseCafe:Sunrise Café
+Insomnia.BlueMoonYacht:Blue Moon Yacht
+Insomnia.Description:Le rêve à portée de main
+
+##Underground
+Underground.Name:SOUTERRAIN
+Underground.DesertCaveHotel:Desert Cave Hôtel
+Underground.GoldMine:Mine D'or
+Underground.ImperialBunker:Bunker Impérial
+Underground.Description:Tenter votre chance
+
+##Business
+Business.Name:BUSINESS
+Business.TradesmanClub:Tradesman Club
+Business.MillenniumHotel:Millennium Hôtel
+Business.FortuneHippodrone:Fortune Hippodrome
+Business.HeritageBank:Héritage Banque
+Business.Description:Jouer sagement
+
+##DailyGoals
+DailyGoals.DailyGoals:Objectifs du jour
+DailyGoals.Get:RÉCUPÉRER
+DailyGoals.ReceiveAll:COLLECTER TOUS
+
+##DailyTasks
+DailyTasks.Task1:Gagnez avec une paire 5 fois
+DailyTasks.Task2:Gagnez avec une double paire 3 fois
+DailyTasks.Task3:Gagnez avec un brelan
+DailyTasks.Task4:Gagnez avec une suite
+DailyTasks.Task5:Gagnez avec une couleur
+DailyTasks.Task6:Gagnez avec un full
+DailyTasks.Task7:Gagnez avec un carré
+DailyTasks.Task8:Gagnez 50 000 jetons
+DailyTasks.Task9:Gagnez 100 000 jetons
+DailyTasks.Task10:Gagnez 250 000 jetons
+DailyTasks.Task11:Gagnez 10 mains
+DailyTasks.Task12:Jouer 20 mains
+DailyTasks.Task13:Jouer 10 mains à 1 table
+DailyTasks.Task14:Jouer à 3 tables différentes
+DailyTasks.Task15:Misez votre tapis et gagnez
+DailyTasks.Task16:Couchez-vous avec un brelan
+DailyTasks.Task17:Couchez-vous avec une double paire
+DailyTasks.Task18:Couchez-vous avec une suite
+DailyTasks.Task19:Jouez au Sit & Go
+DailyTasks.Task20:Jouez au Joker
+DailyTasks.Task21:Jouez au Royal
+
+##DailyReward
+DailyReward.ComeBack:Revenez chaque jour pour réclamer votre récompense
+DailyReward.Dailyreward:Récompense quotidienne
+DailyReward.Claim:COLLECTER
+
+##Combinations:
+Combinations.None:
+Combinations.HighValue:Carte haute
+Combinations.HighCard:Carte haute
+Combinations.Pair:Paire
+Combinations.OnePair:Paire
+Combinations.TwoPair:Double paire
+Combinations.TwoPairs:Double paire
+Combinations.ThreeOfAKind:Brelan
+Combinations.FourOfAKind:Carré
+Combinations.Straight:Suite
+Combinations.Flush:Couleur
+Combinations.FullHouse:Full house
+Combinations.StraightFlush:Quinte flush
+Combinations.RoyalFlush:Quinte flush royale
+Combinations.FiveOfAKind:Carré avec joker
+
+##OnTable
+OnTable.Dealer:DEALER
+OnTable.WaitingMessage:Attendez que le jeu suivant commence
+OnTable.WaitingForPlayersMessage:En attente des joueurs
+#WinnerMessage:
+WinnerMessage.WinnerIs:Le gagnant est
+WinnerMessage.WithCombination:avec combinaison :
+
+##ActionOnTable
+ActionOnTable.Call:SUIVRE
+ActionOnTable.CallWaiting:SUIVRE ACTUEL
+ActionOnTable.CallAny:TOUT SUIVRE
+ActionOnTable.Check:PARLER
+ActionOnTable.Fold:SE COUCHER
+ActionOnTable.Raise:RELANCER
+ActionOnTable.Bet:BET
+ActionOnTable.AllIn:TAPIS
+ActionOnTable.Bank:POT
+ActionOnTable.BlindX6:BLINDS x6
+ActionOnTable.BlindX2:BLINDS x2
+
+##HiddenMenu
+HiddenMenu.ExitToLobby:SORTIR AU LOBBY
+HiddenMenu.LeaveTable:QUITTER LA TABLE
+HiddenMenu.SwitchTable:CHANGER DE TABLE
+HiddenMenu.Settings:Configuration
+HiddenMenu.Inventory:INVENTAIRE
+
+##ConfirmWindow
+ConfirmWindow.AreYouSure:Êtes-vous sûr ?
+ConfirmWindow.Yes:Oui
+ConfirmWindow.No:Non
+ConfirmWindow.WinMoney:Vous avez gagné à cette table
+ConfirmWindow.SitNGo:Vous allez perdre votre BUY-IN
+
+##ShopView
+ShopView.Shop:BOUTIQUE
+ShopView.Bigcoins:BIGCOINS
+ShopView.Spin:SPIN
+ShopView.Hand.0:BELLE MAIN
+ShopView.Hand.1:MAIN HEUREUSE
+ShopView.Hand.2:MAIN CHANCEUSE
+ShopView.Hand.3:MAIN MAGIQUE
+ShopView.WinUpTo:GAGNEZ JUSQU'À
+ShopView.LetsRoll:SPIN
+ShopView.YouWon:Vous avez gagné
+ShopView.Nice:Super
+ShopView.Chips:Jetons
+ShopView.ChoosePayment:Choisissez une méthode de paiement
+ShopView.Cancel:Annuler
+
+##Chat
+Phrase.Hi:Bonjour
+Phrase.NotMyDay:Pas mon jour
+Phrase.GoodLuck:Bonne chance
+Phrase.Cool:Bravo
+Phrase.ThankYou:Merci
+Phrase.Bluff:Bluffer
+Phrase.CalmDown:$#%@!!!
+Phrase.Really:Vraiment?
+Phrase.HaveToGo:Je dois y aller!
+Phrase.Lucky:Chanceux
+Phrase.GoodGame:Grand jeu
+Phrase.HaHaHa:Ha-ha-ha
+Phrase.Yes:Oui
+Phrase.No:Non
+Phrase.Sleep:Zzzz...
+Phrase.SeeYouLater:À plus
+Phrase.Sorry:Désolé
+Phrase.NiceHand:Belle main
+
+##Gifts
+Gifts.Header:Cadeaux
+Gifts.Table:Table
+Gifts.Player:Joueur
+
+##Authentication
+Signing.Reconnecting:Connexion perdue. Reconnexion...
+Signing.NoEnternet:Pas de connexion Internet. Vérifiez la connexion...
+Signing.Connecting:Connexion au serveur...
+Signing.Authentication:Authentification. S'il vous plaît, attendez.
+Signing.AuthWindow:S'inscrire
+Signing.Guest:Continuer en tant qu'invité
+Signing.Google:Connectez-vous avec Google
+Signing.Facebook:Connectez-vous avec Facebook
+Signing.Apple:Connectez-vous avec Apple
+Signing.PlayerHasAlreadyAuthorized:Veuillez désactiver le jeu sur un autre navigateur ou appareil et essayer de vous reconnecter après quelques secondes
+Signing.Notification:Notification
+Signing.OK:OK
+Signing.ServerNotWorking:Désolé, il y a un problème avec le serveur. Réessayez plus tard
+Signing.ServerVersionDismatch:Veuillez, mettre à jour l'application
+
+##Registration
+Registration.Header:Inscription
+Registration.InputName:Entrez le nom
+Registration.NamePlaceholder:Nom
+Registration.InputGender:Sélectionnez le sexe
+Registration.Male:Homme
+Registration.Female:Femme
+Registration.ChooseHands:Sélectionnez les mains
+Registration.Policy:J'accepte les conditions d'utilisation
+Registration.Continue:Continuer
+
+##ProfileEditing
+ProfileEditing.Profile:Profil
+ProfileEditing.Name:Nom
+ProfileEditing.Gender:Genre
+ProfileEditing.Male:Homme
+ProfileEditing.Female:Femme
+ProfileEditing.Hands:Mains
+ProfileEditing.Apply:Appliquer
+##OpenCardsDialogue
+OpenCardsChoise.Question:Afficher les cartes?
+OpenCardsChoise.PlayerChoise:Le joueur pense à montrer des cartes
+OpenCardsChoise.Yes:Oui
+OpenCardsChoise.No:Non
+
+##LastCombinationPanel
+LastCombination.Distribution:Résultats du dernier tour
+LastCombination.TableCards:Cartes sur la table
+
+##FriendsPanel
+FriendsPanel.SendTextMessage:Envoyer
+FriendsPanel.Friends:Amis
+FriendsPanel.Requests:Demandes
+FriendsPanel.CodeForFriends:Code à envoyer à des amis
+FriendsPanel.AddToFriendText:Ajouter aux amis
+FriendsPanel.InviteToFriendText:Inviter des amis
+FriendsPanel.EnterCodeHere:Entrez le code ici
+FriendsPanel.EnterCode:Entrez le code
+FriendsPanel.SendCode:Envoyer le code
+FriendsPanel.SendReference:Envoyer un lien
+FriendsPanel.SendReferenceToClipboard:Envoyer le lien dans le presse-papiers
+FriendsPanel.Ready:Prêt
+FriendsPanel.RequestToAddingSend:Demande d'ami envoyée
+FriendsPanel.DeleteFriend:Supprimer un ami
+FriendsPanel.SureToDeleteFriend:Voulez-vous vraiment supprimer votre ami ?
+FriendsPanel.Notification:Notification
+FriendsPanel.FriendNotPlaying:Votre ami ne joue pas au poker maintenant. Essayez plus tard
+FriendsPanel.NoSits:Malheureusement, il n'y a plus de sièges vides à la table maintenant. Essayer plus tard
+FriendsPanel.FriendPlaying:Votre ami joue au poker maintenant. Essayez plus tard
+FriendsPanel.Copy:Copier
+FriendsPanel.WrongCode:Code erroné
+FriendsPanel.Share:Partager
+FriendsPanel.Yes:Oui
+FriendsPanel.ConnectToTable:Se connecter au tableau
+FriendsPanel.InviteToTable:Inviter à une table
+FriendsPanel.Accept:Accepter
+FriendsPanel.Refuse:Refuser
+FriendsPanel.InvitationToFriend:Invitation à un ami
+FriendsPanel.YourFriendInvitesYou:Votre ami vous invite
+FriendsPanel.PersonalChat:Chat privé
+FriendsPanel.SendMessage:Envoyer
+FriendsPanel.EnterMessage:Entrer un message
+FriendsPanel.OK:OK
+FriendsPanel.SitnGoStarted:Malheureusement, le jeu Sit&Go a déjà commencé. Essayer plus tard
+FriendsPanel.Sent:Envoyé
+FriendsPanel.InvitingText:Votre ami {0} vous invite à la table
+FriendsPanel.TableName:Nom de la table
+FriendsPanel.TableType:Type de tableau
+FriendsPanel.PlayerCount:Nombre de joueurs
+FriendsPanel.RequestHasAlreadySent:Le joueur vous a déjà envoyé une demande d'ami
+FriendsPanel.FreindHasLeavedFromTable:Votre ami ne joue plus à cette table
+FriendsPanel.YourFriend:Ton ami
+FriendsPanel.YouHaveAlreadySent:Vous avez déjà envoyé une demande
+FriendsPanel.IsYourFriendAlready:Le joueur est déjà votre ami
+FriendsPanel.FriendNotification:Demande d'ami
+
+##TableInfo
+TableInfo.TexasPoker:La variante de poker la plus populaire dans le monde moderne. Un jeu avec deux cartes fermées et cinq cartes communes qui sont utilisées par tous les joueurs pour faire des combinaisons
+TableInfo.RoyalPoker:Un type spécial de poker où seules les cartes les mieux classées sont jouées selon les règles du Texas Poker. Lors du calcul de vos chances de gagner, n'oubliez pas que seules les cartes les mieux classées sont en jeu. Les combinaisons qui peuvent être assez fortes au poker ordinaire peuvent être parmi les plus faibles à la table du ROYAL POKER
+TableInfo.JokerPoker:Joker est une variante courante du Texas Poker. Cette carte universelle rend le jeu plus imprévisible et augmente les chances de faire des combinaisons rares comme Quinte flush royale, Quinte flush et Carré. Lorsque vous jouez au Joker Poker, il est important de savoir comment les combinaisons de poker sont faites avec le Joker et de comprendre leurs valeurs de main
+TableInfo.SitnGo:Un tournoi de poker pour 5 joueurs, qui démarre lorsque toutes les places sont prises. La cagnotte est constituée des APPORTS des joueurs. Le gagnant remporte le maximum de gains, tandis que le deuxième gagnant récupère son APPORT. Les joueurs commencent avec une somme fixe en fonction du niveau du tournoi, et les blinds montent tous les 4 tours
+TableInfo.DashPoker:Texas Poker classique, mais lorsque vous vous couchez, vous passez immédiatement à la distribution d'une nouvelle main avec de nouveaux adversaires
+TableInfo.OK:OK
+TableInfo.AutoTop:Dépôt automatique
+TableInfo.AutoTopInfo:Info du dépôt automatique
+
+##NewPlayer:
+NewPlayer.Welcome:Bienvenue au Poker Hand
+NewPlayer.Reward:Vous avez été crédité
+##Share
+Share.Message:Jouez au poker dans Poker Hand!{3}Jouez gratuitement{2} {0}{3}Utilisez mon code {1} pour jouer avec moi!
+
+##MoneyBox
+MoneyBox.Open:Ouvert
+MoneyBox.Notification:Notification
+MoneyBox.NothingToOpen:La tirelire est vide en ce moment
+MoneyBox.OK:OK
+
+##Ads
+Ads.Notification:Notification
+Ads.NoAdsAvaible:Il n'y a pas d'annonces en ce moment
+Ads.OK:OK
+
+##RatingWindow
+RatingWindow.PercentAmount:Vous êtes dans {0}% des joueurs
+RatingWindow.Local:Localement
+RatingWindow.Global:Mondial
+RatingWindow.You:Vous
+RatingWindow.TopPlayers:Meilleurs joueurs
+
+##DeleteUser
+DeleteUser.Title:Supprimer le compte
+DeleteUser.Messenger:Confirmer la suppression du compte?
+DeleteUser.Yes:Oui
+DeleteUser.No:Non

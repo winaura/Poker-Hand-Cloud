@@ -1,0 +1,392 @@
+##MainMenu
+MainMenu.DashPoker:DASH POKER
+MainMenu.LowballPoker:LOWBALL POKER
+MainMenu.PrivateRoom:MY ROOM
+MainMenu.Tournament:TOURNAMENT
+MainMenu.Inventary:INVENTORY
+MainMenu.ConnectingToTable:Connecting to table
+MainMenu.DisconnectingFromTable:Leaving table
+
+##Settings
+Settings.Settings:SETTINGS
+Settings.Sound:SOUND
+Settings.Music:MUSIC
+Settings.Vibration:VIBRATION
+Settings.Hands:HANDS
+Settings.Hints:HINTS
+Settings.Friends:Friends
+Settings.Apply:APPLY
+
+##Notifications
+Notification.KickedAFK:You were disconnected for inactivity
+
+##PlayerPanel
+PlayerPanel.Level:Level
+PlayerPanel.Shop:BUY
+
+##ProfileWindow
+ProfileWindow.PlayerSince:Registration date
+ProfileWindow.Level:Level
+ProfileWindow.HandsPlayed:Hands played
+ProfileWindow.BestHand:Best hand
+ProfileWindow.HandsWon:Hands won
+ProfileWindow.BiggestPot:Biggest winnings
+ProfileWindow.SitNGoWon:Sit & Go tournaments won 
+ProfileWindow.InputNickname:ENTER NEW NICKNAME
+ProfileWindow.ChoseCountry:SELECT A COUNTRY
+ProfileWindow.Confirm:Apply
+ProfileWindow.PickImage:Select a PNG image
+
+##WindowWithMoney
+WindowWithMoney.TexasPoker:TEXAS POKER
+WindowWithMoney.RoyalPoker:ROYAL POKER
+WindowWithMoney.DashPoker:DASH POKER
+WindowWithMoney.LowballPoker:LOWBALL POKER
+WindowWithMoney.JokerPoker:JOKER POKER
+WindowWithMoney.NotEnoughMoney:You don't have enough money
+WindowWithMoney.Blinds:Blinds
+WindowWithMoney.AutoTopOff:Auto-refill off
+WindowWithMoney.AutoTopOn:Auto-refill on
+WindowWithMoney.LetsGo:LET'S GO!
+WindowWithMoney.BuyIn:BUY-IN
+WindowWithMoney.HowMuchTake:How many chips do you want?
+WindowWithMoney.FixBlindTake:Continue?
+
+##SitNGoWindowWithMoney
+SitNGoWindowWithMoney.Description:SIT & GO
+SitNGoWindowWithMoney.BuyIn:BUY-IN
+SitNGoWindowWithMoney.1stPlace:1st Place 
+SitNGoWindowWithMoney.2ndPlace:2nd Place
+SitNGoWindowWithMoney.BlindsStarts:Starting blind 
+SitNGoWindowWithMoney.BlindsLevels:Blinds increase every five rounds
+SitNGoWindowWithMoney.SatrtingChips:Starting chips
+SitNGoWindowWithMoney.NotEnoughMoney:You don't have enough money
+SitNGoWindowWithMoney.LetsGo:LET'S GO!
+SitNGoWindowWithMoney.TryAgain:TRY AGAIN
+
+##SitNGoFinishWindow
+SitNGoFinishWindow.Name:SIT & GO
+SitNGoFinishWindow.Congratulations:Congratulations!
+SitNGoFinishWindow.Lose:Nice!
+SitNGoFinishWindow.1stPlace:You finished in 1st place
+SitNGoFinishWindow.2ndPlace:You finished in 2nd place
+SitNGoFinishWindow.3rdPlace:You finished in 3rd place
+SitNGoFinishWindow.4thPlace:You finished in 4th place
+SitNGoFinishWindow.5thPlace:You finished in 5th place
+SitNGoFinishWindow.YouWon:You won
+SitNGoFinishWindow.TryAgain:TRY AGAIN
+
+##LuckySpin
+LuckySpin.Spin:SPIN
+LuckySpin.YouWon:You won
+LuckySpin.Chips:Chips
+LuckySpin.SpinFree:FREE
+LuckySpin.NoThanks:NO THANKS
+LuckySpin.GetChips:GET CHIPS
+LuckySpin.Quit:QUIT
+
+##Worlds
+Worlds.Chillout:CHILL-OUT
+Worlds.Insomnia:INSOMNIA
+Worlds.Underground:UNDERGROUND
+Worlds.Business:BUSINESS
+
+##WorldsInside
+WorldsInside.JokerPoker:Joker Poker
+WorldsInside.TexasPoker:Texas Poker
+WorldsInside.RoyalPoker:Royal Poker
+WorldsInside.SitNGo:Sit & Go
+
+##Chillout
+Chillout.Name:CHILL-OUT
+Chillout.RivieraHotel:Riviera Hotel
+Chillout.ShishaBar:Shisha Bar
+Chillout.BeachClub:Beach Club
+Chillout.IbizaDisco:Ibiza Disco
+Chillout.WetDeskLounge:Wet Desk Lounge
+Chillout.TropicalHouse:Tropical House
+Chillout.Description:Relax and play
+
+##Insomnia
+Insomnia.Name:INSOMNIA
+Insomnia.SevenNightsClub:Seven Nights Club
+Insomnia.MirageCasino:Mirage Casino
+Insomnia.CityDreamsResort:City Dreams Resort
+Insomnia.SunriseCafe:Sunrise Cafe
+Insomnia.BlueMoonYacht:Blue Moon Yacht
+Insomnia.Description:You're close to your dream
+
+##Underground
+Underground.Name:UNDERGROUND
+Underground.DesertCaveHotel:Desert Cave Hotel
+Underground.GoldMine:Gold Mine
+Underground.ImperialBunker:Imperial Bunker
+Underground.Description:Try your luck
+
+##Business
+Business.Name:BUSINESS
+Business.TradesmanClub:Tradesman Club
+Business.MillenniumHotel:Millennium Hotel
+Business.FortuneHippodrone:Fortune Hippodrome
+Business.HeritageBank:Heritage Bank
+Business.Description:Play wisely
+
+##DailyGoals
+DailyGoals.DailyGoals:Daily Goals
+DailyGoals.Get:GET
+DailyGoals.ReceiveAll:COLLECT ALL
+
+##DailyTasks
+DailyTasks.Task1:Win with One Pair 5 times
+DailyTasks.Task2:Win with Two Pair 3 times
+DailyTasks.Task3:Win with a Set 1 time
+DailyTasks.Task4:Win with a Straight 1 time
+DailyTasks.Task5:Win with a Flush 1 time
+DailyTasks.Task6:Win with a Full House 1 time
+DailyTasks.Task7:Win with Quads 1 time
+DailyTasks.Task8:Win 50,000 chips
+DailyTasks.Task9:Win 100,000 chips
+DailyTasks.Task10:Win 250,000 chips
+DailyTasks.Task11:Win 10 hands
+DailyTasks.Task12:Play 20 hands
+DailyTasks.Task13:Play 10 hands on one table
+DailyTasks.Task14:Play on 3 different tables
+DailyTasks.Task15:Go All-In and win
+DailyTasks.Task16:Fold with a Set in your hands
+DailyTasks.Task17:Fold with Two Pair
+DailyTasks.Task18:Fold with a Straight
+DailyTasks.Task19:Play Sit & Go
+DailyTasks.Task20:Play Joker
+DailyTasks.Task21:Play Royal
+
+##DailyReward
+DailyReward.ComeBack:Come back every day and claim your reward
+DailyReward.Dailyreward:Daily Reward
+DailyReward.Claim:COLLECT
+
+##Combinations
+Combinations.None:
+Combinations.HighValue:High Card
+Combinations.HighCard:High Card
+Combinations.Pair:Pair
+Combinations.OnePair:Pair
+Combinations.TwoPair:Two Pair
+Combinations.TwoPairs:Two Pair
+Combinations.ThreeOfAKind:Set
+Combinations.FourOfAKind:Quads
+Combinations.Straight:Straight
+Combinations.Flush:Flush
+Combinations.FullHouse:Full House
+Combinations.StraightFlush:Straight Flush
+Combinations.RoyalFlush:Royal Flush
+Combinations.FiveOfAKind:Quads with joker
+
+##OnTable
+OnTable.Dealer:DEALER
+OnTable.WaitingMessage:Please wait for a new game
+OnTable.WaitingForPlayersMessage:Waiting for other players
+#WinnerMessage:
+WinnerMessage.WinnerIs:The winner is
+WinnerMessage.WithCombination:with:
+
+##ActionOnTable
+ActionOnTable.Call:CALL
+ActionOnTable.CallWaiting:CALL CURRENT
+ActionOnTable.CallAny:CALL ANY
+ActionOnTable.Check:CHECK
+ActionOnTable.Fold:FOLD
+ActionOnTable.Raise:RAISE
+ActionOnTable.Bet:BET
+ActionOnTable.AllIn:ALL-IN
+ActionOnTable.Bank:BANK
+ActionOnTable.BlindX6:BLIND x6
+ActionOnTable.BlindX2:BLIND x2
+
+##HiddenMenu
+HiddenMenu.ExitToLobby:EXIT TO LOBBY
+HiddenMenu.LeaveTable:LEAVE TABLE
+HiddenMenu.SwitchTable:CHANGE TABLE
+HiddenMenu.Settings:SETTINGS
+HiddenMenu.Inventory:INVENTORY
+
+##ConfirmWindow
+ConfirmWindow.AreYouSure:Are you sure?
+ConfirmWindow.Yes:YES
+ConfirmWindow.No:NO
+ConfirmWindow.WinMoney:You won on this table
+ConfirmWindow.SitNGo:You will lose your BUY-IN
+
+##ShopView
+ShopView.Shop:STORE
+ShopView.Bigcoins:BIGCOINS
+ShopView.Spin:SPIN
+ShopView.Hand.0:EXCELLENT HAND
+ShopView.Hand.1:GREAT HAND
+ShopView.Hand.2:LUCKY HAND
+ShopView.Hand.3:MAGIC HAND
+ShopView.WinUpTo:CHANCE TO WIN
+ShopView.LetsRoll:SPIN
+ShopView.YouWon:You won
+ShopView.Nice:GREAT
+ShopView.Chips:Chips
+ShopView.ChoosePayment:Select payment method
+ShopView.Cancel:Cancel
+
+##Chat
+Phrase.Hi:Hello
+Phrase.NotMyDay:Not my day
+Phrase.GoodLuck:Good luck
+Phrase.Cool:Cool
+Phrase.ThankYou:Thanks
+Phrase.Bluff:Bluff
+Phrase.CalmDown:$#%@!!!
+Phrase.Really:Really?
+Phrase.HaveToGo:I have to go!
+Phrase.Lucky:Lucky
+Phrase.GoodGame:Good game
+Phrase.HaHaHa:Hahaha
+Phrase.Yes:Yes
+Phrase.No:No
+Phrase.Sleep:Zzzz...
+Phrase.SeeYouLater:See you later
+Phrase.Sorry:Sorry
+Phrase.NiceHand:Nice hand
+
+##Gifts
+Gifts.Header:Gifts
+Gifts.Table:Table
+Gifts.Player:Player
+
+##Authentication
+Signing.Reconnecting:Connection lost. Reconnecting...
+Signing.NoEnternet:No internet. Please check your connection.
+Signing.Connecting:Connecting to the server...
+Signing.Authentication:Authenticating. Please wait.
+Signing.AuthWindow:Enter
+Signing.Guest:Continue as Guest
+Signing.Google:Sign in with Google
+Signing.Facebook:Sign in with Facebook
+Signing.Apple:Sign in with Apple
+Signing.PlayerHasAlreadyAuthorized:Please, disable the game on another browser or device and try logging in again after a few seconds
+Signing.Notification:Notification
+Signing.OK:OK
+Signing.ServerNotWorking:Sorry, there's a problem with the server. Try again later
+Signing.ServerVersionDismatch: Please, update the app
+
+##Registration
+Registration.Header:Registration
+Registration.InputName:Enter your name
+Registration.NamePlaceholder:Name
+Registration.InputGender:Select your gender
+Registration.Male:Male
+Registration.Female:Female
+Registration.ChooseHands:Select hands
+Registration.Policy:I accept the User Agreement
+Registration.Continue:Continue
+
+##ProfileEditing
+ProfileEditing.Profile:Profile
+ProfileEditing.Name:Name
+ProfileEditing.Gender:Gender
+ProfileEditing.Male:Male
+ProfileEditing.Female:Female
+ProfileEditing.Hands:Hands
+ProfileEditing.Apply:Apply
+
+##OpenCardsDialogue
+OpenCardsChoise.Question:Show your cards?
+OpenCardsChoise.PlayerChoise:Player is thinking about showing cards
+OpenCardsChoise.Yes:Yes
+OpenCardsChoise.No:No
+
+##LastCombinationPanel
+LastCombination.Distribution:Last round results
+LastCombination.TableCards:Cards on the table
+
+##FriendsPanel
+FriendsPanel.SendTextMessage:Send
+FriendsPanel.Friends:Friends
+FriendsPanel.Requests:Requests
+FriendsPanel.CodeForFriends:Code to send to friends
+FriendsPanel.AddToFriendText:Add to friends
+FriendsPanel.InviteToFriendText:Invite to friends
+FriendsPanel.EnterCodeHere:Enter code here
+FriendsPanel.EnterCode:Enter code
+FriendsPanel.SendCode:Send code
+FriendsPanel.SendReference:Send link
+FriendsPanel.SendReferenceToClipboard:Copy link to clipboard
+FriendsPanel.Ready:Ready
+FriendsPanel.RequestToAddingSend:Friend request sent
+FriendsPanel.DeleteFriend:Delete friend
+FriendsPanel.SureToDeleteFriend:Do you really want to delete this friend?
+FriendsPanel.Notification:Notifications
+FriendsPanel.FriendNotPlaying:Your friend is currently not playing poker. Please try again later
+FriendsPanel.NoSits:Unfortunately, there are no free spaces at the table. Please try again later
+FriendsPanel.FriendPlaying:Your friend is currently playing poker. Please try again later
+FriendsPanel.Copy:Copy
+FriendsPanel.WrongCode:Incorrect code
+FriendsPanel.Share:Share
+FriendsPanel.Yes:Yes
+FriendsPanel.ConnectToTable:Join table
+FriendsPanel.InviteToTable:Invite to table
+FriendsPanel.Accept:Accept
+FriendsPanel.Refuse:Decline
+FriendsPanel.InvitationToFriend:Invite friend to table
+FriendsPanel.YourFriendInvitesYou:Your friend invites you to a table
+FriendsPanel.PersonalChat:Private chat
+FriendsPanel.SendMessage:Send
+FriendsPanel.EnterMessage:Enter message
+FriendsPanel.OK:OK
+FriendsPanel.SitnGoStarted:Unfortunately, Sit&Go game has already started. Try later 
+FriendsPanel.Sent:Sent
+FriendsPanel.InvitingText:Your friend {0} invites you to the table
+FriendsPanel.TableName:Table name
+FriendsPanel.TableType:Table type
+FriendsPanel.PlayerCount:Count of players
+FriendsPanel.RequestHasAlreadySent:Player has already sent you a friend request
+FriendsPanel.FreindHasLeavedFromTable:Your friend isn't playing at this table no longer
+FriendsPanel.YourFriend:Your friend
+FriendsPanel.YouHaveAlreadySent:You have already sent a request
+FriendsPanel.IsYourFriendAlready:The player is already your friend
+FriendsPanel.FriendNotification:Friend request
+
+##TableInfo
+TableInfo.TexasPoker:The most popular variant of poker today. A game with two hole cards and five community cards that are used by all players to make hands
+TableInfo.RoyalPoker:A special kind of poker with the same rules as Texas Holdem, but using only the highest-ranking cards. When calculating your odds of winning, don't forget that there are no low-ranking cards in the pack. A hand that could be quite impressive in ordinary poker may be one of the weakest at the table in ROYAL POKER
+TableInfo.JokerPoker:Joker Poker is a common variation on Texas Holdem. This universal card makes the game more unpredictable and increases the chances of making rare hands like a royal flush, a straight flush, or quads. When playing Joker Poker it's important to know how to make a hand with the joker and understand the value of all the combinations
+TableInfo.SitnGo:A poker tournament for 5 players that starts when all the places are taken. The prize pool consists of the players' BUY-INs. The winner takes the maximum payout, and the player who places second gets their BUY-IN back. The players start with a fixed sum according to the level of the tournament, and the blinds increase every 4 rounds
+TableInfo.DashPoker:Classic Texas Holdem, but when you fold, you immediately move to a new hand with new opponents
+TableInfo.OK:OK
+TableInfo.AutoTop:Autodeposit
+TableInfo.AutoTopInfo:Autodeposit info
+
+##NewPlayer
+NewPlayer.Welcome:Welcome to Poker Hand
+NewPlayer.Reward:You were credited
+
+##Share
+Share.Message:Play poker in Poker Hand!{3}Play for free{2} {0}{3}Use my code {1} to play with me!
+
+##MoneyBox
+MoneyBox.Open:Open
+MoneyBox.Notification:Notification
+MoneyBox.NothingToOpen:Money box is empty at this moment
+MoneyBox.OK:OK
+
+##Ads
+Ads.Notification:Notification
+Ads.NoAdsAvaible:There is no ads in this moment
+Ads.OK:OK
+
+##RatingWindow
+RatingWindow.PercentAmount:You are in {0}% of players
+RatingWindow.Local:Local
+RatingWindow.Global:Global
+RatingWindow.You:You
+RatingWindow.TopPlayers:Top players
+
+##DeleteUser
+DeleteUser.Title:Delete Account
+DeleteUser.Messenger:Confirm account deletion?
+DeleteUser.Yes:Yes
+DeleteUser.No:No

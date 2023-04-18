@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3c2171949d8094491699d3887d7f2d, type: 3}
+  m_Name: Winners Data Container
+  m_EditorClassIdentifier: 
+  onePlayerIndex: 6
+  isOnePlayerLive: 1
+  isCardsOpen: 0
+  clubsSpriteList:
+  - {fileID: 21300000, guid: 71edba5b573e64637a2aa7c38116806c, type: 3}
+  - {fileID: 21300000, guid: c8e41c9d035ca4055bf329a37faddf68, type: 3}
+  - {fileID: 21300000, guid: b9e747096f3f34030917db46c4f7dc7a, type: 3}
+  - {fileID: 21300000, guid: 5536941e27ac544bebe807e0529314f7, type: 3}
+  - {fileID: 21300000, guid: f4a604da0eb174d7ca38403a9fef948e, type: 3}
+  - {fileID: 21300000, guid: ccb7a44871ab145088261ff040f55466, type: 3}
+  - {fileID: 21300000, guid: 83d63992f35fd462ebb3ef6f5fc7720b, type: 3}
+  - {fileID: 21300000, guid: 8d8977bdd18494da0a08b890192000dd, type: 3}
+  - {fileID: 21300000, guid: 66cdead9801ed446cae3128930085312, type: 3}
+  - {fileID: 21300000, guid: 94999e63c219946f9b6ebff12d62d067, type: 3}
+  - {fileID: 21300000, guid: c04bd6304b52947aa97519f836a1f37f, type: 3}
+  - {fileID: 21300000, guid: ede2230570de24eeeaa14032f576f171, type: 3}
+  - {fileID: 21300000, guid: 5eb0c06343f944359b71816b5e21d70a, type: 3}
+  diamondsSpriteList:
+  - {fileID: 21300000, guid: 9809e36e3c5864080a3f066676d41a8c, type: 3}
+  - {fileID: 21300000, guid: 44d86e5b09a264aa4b9849548b1c9606, type: 3}
+  - {fileID: 21300000, guid: 5fa9ea706132149b0b057c64eb49d6af, type: 3}
+  - {fileID: 21300000, guid: b1564a3af8074459e9b860fe30dff9be, type: 3}
+  - {fileID: 21300000, guid: 35f02e1a1907d4530b96c1a45f60e07d, type: 3}
+  - {fileID: 21300000, guid: 941dd7bc4891b4e25b88926ade0bf5fa, type: 3}
+  - {fileID: 21300000, guid: db2bb1e20c64b4e49b8c6c987e49dd12, type: 3}
+  - {fileID: 21300000, guid: ae76fce08a7eb48b7a12ed01eb60b521, type: 3}
+  - {fileID: 21300000, guid: 1d11fe8f6edb540d28bb34e66d7fdba7, type: 3}
+  - {fileID: 21300000, guid: b7dfa0537278d4c9da168a241fb4a7c3, type: 3}
+  - {fileID: 21300000, guid: a802eb9c9cef642b3ac075772c93c7e2, type: 3}
+  - {fileID: 21300000, guid: 70f00a0c02e074aaf80f8bbbd289ca83, type: 3}
+  - {fileID: 21300000, guid: b5959239e1a5a4d90a02eee0623ddbfe, type: 3}
+  heartsSpriteList:
+  - {fileID: 21300000, guid: 9462f36e1e202434ea262e5bdb356732, type: 3}
+  - {fileID: 21300000, guid: 1f51b5a95d4d94fe488b27a077497887, type: 3}
+  - {fileID: 21300000, guid: b8c12929ab59f41758666fce7aace3f2, type: 3}
+  - {fileID: 21300000, guid: 0e8c1e129bd5c4fdebdb98e683bf1a91, type: 3}
+  - {fileID: 21300000, guid: fe1c5924efa2a4203a51636be3340779, type: 3}
+  - {fileID: 21300000, guid: 2382e9c9b89dc49fd9e630a1561f9ae9, type: 3}
+  - {fileID: 21300000, guid: 8fb1c20ef5a5647d19944d6afc66881c, type: 3}
+  - {fileID: 21300000, guid: 401798fe33a48405d83cac6a4cba137c, type: 3}
+  - {fileID: 21300000, guid: 1253137adc3e540179ae8e24ce294fe4, type: 3}
+  - {fileID: 21300000, guid: c608a81ed325d4356b52d1571277e7ab, type: 3}
+  - {fileID: 21300000, guid: 15a385e9b739d4e8cb209a9b0ec5b646, type: 3}
+  - {fileID: 21300000, guid: 063b3e835c5fd478f95351687eda80e5, type: 3}
+  - {fileID: 21300000, guid: 7b1335461c4b04d8e810e3478a7a7466, type: 3}
+  spadesSpriteList:
+  - {fileID: 21300000, guid: db45353abb17744b6b7fada5239519b3, type: 3}
+  - {fileID: 21300000, guid: 9989c4035aa8b463783cf35be9ae0456, type: 3}
+  - {fileID: 21300000, guid: df6dffc50b6bf4565833a6629bda2db0, type: 3}
+  - {fileID: 21300000, guid: 01a09d51cecdd4c6594e9df149102074, type: 3}
+  - {fileID: 21300000, guid: fcddb0929b92948e69abec2c598004f8, type: 3}
+  - {fileID: 21300000, guid: b05a99c61a1b841f6a305f7a320cdaac, type: 3}
+  - {fileID: 21300000, guid: 71b77f5acac394b86af44140f8219c76, type: 3}
+  - {fileID: 21300000, guid: f543e40d7947a4a3c9ce652f6ac68fa4, type: 3}
+  - {fileID: 21300000, guid: a501d06f68a2748d8b9e62443954a22d, type: 3}
+  - {fileID: 21300000, guid: cbb3fe63a7ba7481abb49b591f493e82, type: 3}
+  - {fileID: 21300000, guid: 8e4e862eb78a24a0f9a22b3e534489e2, type: 3}
+  - {fileID: 21300000, guid: f8646b728a7e342c7a9034adc4a2b0dc, type: 3}
+  - {fileID: 21300000, guid: 27a50afd3d10d4ca7b0a7bfd18937aac, type: 3}
+  jokerSprite: {fileID: 21300000, guid: 60617e1639a722c40b755031a193ae9e, type: 3}
+  lastCombinationActivePlayersList:
+  - localIndex: 5
+    userName: Nicklaus_Lockman
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  - localIndex: 6
+    userName: Amber.Jones42
+    winningAmountPerPlayer: $2 000
+    combinationName: OnePair
+    playerCardList:
+    - {fileID: 21300000, guid: fcddb0929b92948e69abec2c598004f8, type: 3}
+    - {fileID: 21300000, guid: f8646b728a7e342c7a9034adc4a2b0dc, type: 3}
+    playerWinningCombinationList:
+    - {fileID: 21300000, guid: f4a604da0eb174d7ca38403a9fef948e, type: 3}
+    - {fileID: 21300000, guid: fcddb0929b92948e69abec2c598004f8, type: 3}
+    - {fileID: 21300000, guid: 5eb0c06343f944359b71816b5e21d70a, type: 3}
+    - {fileID: 21300000, guid: f8646b728a7e342c7a9034adc4a2b0dc, type: 3}
+    - {fileID: 21300000, guid: 71b77f5acac394b86af44140f8219c76, type: 3}
+  - localIndex: 7
+    userName: Heath.OConner
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  - localIndex: 0
+    userName: "\u043F\u0430\u0432\u0435\u043B"
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  lastCardsOnTableList:
+  - {fileID: 21300000, guid: 01a09d51cecdd4c6594e9df149102074, type: 3}
+  - {fileID: 21300000, guid: 5eb0c06343f944359b71816b5e21d70a, type: 3}
+  - {fileID: 21300000, guid: f4a604da0eb174d7ca38403a9fef948e, type: 3}
+  - {fileID: 21300000, guid: 9809e36e3c5864080a3f066676d41a8c, type: 3}
+  - {fileID: 21300000, guid: 71b77f5acac394b86af44140f8219c76, type: 3}
+  activePlayersList:
+  - localIndex: 5
+    userName: Nicklaus_Lockman
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  - localIndex: 6
+    userName: Amber.Jones42
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  - localIndex: 7
+    userName: Heath.OConner
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  - localIndex: 0
+    userName: "\u043F\u0430\u0432\u0435\u043B"
+    winningAmountPerPlayer: 
+    combinationName: None
+    playerCardList: []
+    playerWinningCombinationList: []
+  cardsOnTableList: []

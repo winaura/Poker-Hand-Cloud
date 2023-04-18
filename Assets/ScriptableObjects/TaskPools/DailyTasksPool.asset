@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f4adfdbd200dd744bd87a3bc290a0df, type: 3}
+  m_Name: DailyTasksPool
+  m_EditorClassIdentifier: 
+  taskPoolIntervals:
+  - firstElenentIndex: 0
+    lastElementIndex: 7
+  - firstElenentIndex: 7
+    lastElementIndex: 14
+  - firstElenentIndex: 14
+    lastElementIndex: 21
+  _combinationTaskPool:
+  - taskName: DailyTasks.Task1
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 5
+    hoursToUpdateTask: 24
+    combinationType: 2
+  - taskName: DailyTasks.Task2
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 3
+    hoursToUpdateTask: 24
+    combinationType: 3
+  - taskName: DailyTasks.Task3
+    chipsRewardValue: 5000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 4
+  - taskName: DailyTasks.Task4
+    chipsRewardValue: 5000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 5
+  - taskName: DailyTasks.Task5
+    chipsRewardValue: 5000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 6
+  - taskName: DailyTasks.Task6
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 7
+  - taskName: DailyTasks.Task7
+    chipsRewardValue: 15000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 8
+  _winChipsAmountTaskPool:
+  - taskName: DailyTasks.Task8
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 50000
+    hoursToUpdateTask: 24
+  - taskName: DailyTasks.Task9
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 100000
+    hoursToUpdateTask: 24
+  - taskName: DailyTasks.Task10
+    chipsRewardValue: 30000
+    bigcoinsRewardValue: 0
+    requiredAmount: 250000
+    hoursToUpdateTask: 24
+  _winHandsTaskPool:
+  - taskName: DailyTasks.Task11
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 10
+    hoursToUpdateTask: 24
+  _playHandsTaskPool:
+  - taskName: DailyTasks.Task12
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 20
+    hoursToUpdateTask: 24
+  _playOnOneTableTaskPool:
+  - taskName: DailyTasks.Task13
+    chipsRewardValue: 5000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    _requiredGamesAmount: 10
+    _currentGamesAmount: 10
+    _lastTable: 7
+  _playOnDifferentTablesTaskPool:
+  - taskName: DailyTasks.Task14
+    chipsRewardValue: 5000
+    bigcoinsRewardValue: 0
+    requiredAmount: 3
+    hoursToUpdateTask: 24
+  _allInAndWinTaskPool:
+  - taskName: DailyTasks.Task15
+    chipsRewardValue: 15000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+  _foldWithCombinationTaskPool:
+  - taskName: DailyTasks.Task16
+    chipsRewardValue: 5000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 4
+  - taskName: DailyTasks.Task17
+    chipsRewardValue: 7000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 3
+  - taskName: DailyTasks.Task18
+    chipsRewardValue: 10000
+    bigcoinsRewardValue: 0
+    requiredAmount: 1
+    hoursToUpdateTask: 24
+    combinationType: 5
+  _playOnCertainModeTaskPool:
+  - taskName: DailyTasks.Task19
+    chipsRewardValue: 15000
+    bigcoinsRewardValue: 0
+    requiredAmount: 3
+    hoursToUpdateTask: 24
+    _requiredMode: 5
+  - taskName: DailyTasks.Task20
+    chipsRewardValue: 15000
+    bigcoinsRewardValue: 0
+    requiredAmount: 3
+    hoursToUpdateTask: 24
+    _requiredMode: 3
+  - taskName: DailyTasks.Task21
+    chipsRewardValue: 15000
+    bigcoinsRewardValue: 0
+    requiredAmount: 3
+    hoursToUpdateTask: 24
+    _requiredMode: 2
+  _givePresentTaskPool:
+  - taskName: DailyTasks.Task22
+    chipsRewardValue: 0
+    bigcoinsRewardValue: 0
+    requiredAmount: 15
+    hoursToUpdateTask: 24

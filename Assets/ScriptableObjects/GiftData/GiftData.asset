@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c619e28088bdc1140bde4e31fd0a8771, type: 3}
+  m_Name: GiftData
+  m_EditorClassIdentifier: 
+  giftsInfo:
+  - Name: 1
+    Sprite: {fileID: 21300000, guid: 6ba4f4eb9ad2daa44b1f99172109986a, type: 3}
+    Cost: 1000
+  - Name: 2
+    Sprite: {fileID: 21300000, guid: f520d85e7817ede4fa8f3a6638758c19, type: 3}
+    Cost: 1500
+  - Name: 3
+    Sprite: {fileID: 21300000, guid: 1f79e43a1cb657d4e87d2feedca8cca1, type: 3}
+    Cost: 2000
+  - Name: 4
+    Sprite: {fileID: 21300000, guid: 57b680fa58f89704aad4436237b7faf8, type: 3}
+    Cost: 2500
+  - Name: 5
+    Sprite: {fileID: 21300000, guid: 148b5339fb4ee0f45ae49c2cad8d7523, type: 3}
+    Cost: 3000
+  - Name: 6
+    Sprite: {fileID: 21300000, guid: b1e85cb38f7ed794e817a318e54de1e1, type: 3}
+    Cost: 5000
+  - Name: 7
+    Sprite: {fileID: 21300000, guid: 2b7ec39b469d49942830705a9ea8eb1a, type: 3}
+    Cost: 7000
+  - Name: 8
+    Sprite: {fileID: 21300000, guid: a75fd01685b2d5448b022de2bebd7413, type: 3}
+    Cost: 10000
+  - Name: 9
+    Sprite: {fileID: 21300000, guid: de7e8bb7c155adb43a127ba99879d68b, type: 3}
+    Cost: 10000
+  - Name: 10
+    Sprite: {fileID: 21300000, guid: dbdecff39903fb441a6a1a908e1f170b, type: 3}
+    Cost: 15000
+  - Name: 11
+    Sprite: {fileID: 21300000, guid: 6cbd855217d77c74da98a4bf3381fe7e, type: 3}
+    Cost: 20000
+  - Name: 12
+    Sprite: {fileID: 21300000, guid: 766c8e65485b9ef449d7214dfe7ec5b6, type: 3}
+    Cost: 50000
+  - Name: 13
+    Sprite: {fileID: 21300000, guid: 4d8af2c8dce44294d9ea9a217d433fe2, type: 3}
+    Cost: 50000
+  - Name: 14
+    Sprite: {fileID: 21300000, guid: dbcd949a2a92a38428ce28b55a3babb8, type: 3}
+    Cost: 80000
+  - Name: 15
+    Sprite: {fileID: 21300000, guid: 1caa4c29fd9efed49b10bc7859e5a0af, type: 3}
+    Cost: 100000
+  - Name: 16
+    Sprite: {fileID: 21300000, guid: 0aabe9c41825d8148bb85e6994b60e1b, type: 3}
+    Cost: 100000
+  - Name: 17
+    Sprite: {fileID: 21300000, guid: f41fb477a295d7646bfe54768252b3b6, type: 3}
+    Cost: 150000
+  - Name: 18
+    Sprite: {fileID: 21300000, guid: e8834f481ddfb2a4087cc67c5a352eab, type: 3}
+    Cost: 200000
+  - Name: 19
+    Sprite: {fileID: 21300000, guid: 159a5754ff70a8b44aeb81c58a3bde7d, type: 3}
+    Cost: 300000
+  - Name: 20
+    Sprite: {fileID: 21300000, guid: 90f88ebf0312a264ab461a3dba57d76a, type: 3}
+    Cost: 500000
+  - Name: 21
+    Sprite: {fileID: 21300000, guid: bd7d75738348da448a01340ede3294b8, type: 3}
+    Cost: 500000
+  - Name: 22
+    Sprite: {fileID: 21300000, guid: f8644c51a4aacfc46b4f0d04d516eb1e, type: 3}
+    Cost: 700000
+  - Name: 23
+    Sprite: {fileID: 21300000, guid: d284ce504690418459f553008763bab6, type: 3}
+    Cost: 1000000
+  - Name: 24
+    Sprite: {fileID: 21300000, guid: 1687039c33483bb4aa748f287057b047, type: 3}
+    Cost: 2000000
+  - Name: 25
+    Sprite: {fileID: 21300000, guid: d6f572782500cf743b01a52f5d0ce34e, type: 3}
+    Cost: 3000000

@@ -1,0 +1,393 @@
+##MainMenu
+MainMenu.DashPoker:DASH ПОКЕР
+MainMenu.LowballPoker:LOWBALL ПОКЕР
+MainMenu.PrivateRoom:СВОЯ КОМНАТА
+MainMenu.Tournament:ТУРНИР
+MainMenu.Inventary:ИНВЕНТАРЬ
+MainMenu.ConnectingToTable:Подключение к столу
+MainMenu.DisconnectingFromTable:Выход из-за стола
+
+##Settings
+Settings.Settings:НАСТРОЙКИ
+Settings.Sound:ЗВУК
+Settings.Music:МУЗЫКА
+Settings.Vibration:ВИБРАЦИЯ
+Settings.Hands:РУКИ
+Settings.Hints:ПОДСКАЗКИ
+Settings.Friends:Друзья
+Settings.Apply:ПРИМЕНИТЬ
+
+##Notifications
+Notification.KickedAFK:Вы отключены за бездействие
+
+##PlayerPanel
+PlayerPanel.Level:Уровень
+PlayerPanel.Shop:BUY
+
+##ProfileWindow
+ProfileWindow.PlayerSince:Дата регистрации
+ProfileWindow.Level:Уровень
+ProfileWindow.HandsPlayed:Количество сыграных рук
+ProfileWindow.BestHand:Лучшая рука
+ProfileWindow.HandsWon:Количество выиграных рук
+ProfileWindow.BiggestPot:Самый большой выигрыш
+ProfileWindow.SitNGoWon:Sit & Go турниров выиграно 
+ProfileWindow.InputNickname:ВВЕДИТЕ НОВЫЙ НИКНЕЙМ
+ProfileWindow.ChoseCountry:ВЫБЕРИТЕ СТРАНУ
+ProfileWindow.Confirm:Применить
+ProfileWindow.PickImage:Веберите PNG изображение
+
+##WindowWithMoney
+WindowWithMoney.TexasPoker:TEXAS ПОКЕР
+WindowWithMoney.RoyalPoker:ROYAL ПОКЕР
+WindowWithMoney.DashPoker:DASH ПОКЕР
+WindowWithMoney.LowballPoker:LOWBALL ПОКЕР
+WindowWithMoney.JokerPoker:JOKER ПОКЕР
+WindowWithMoney.NotEnoughMoney:У вас недостаточно денег
+WindowWithMoney.Blinds:Блайнды
+WindowWithMoney.AutoTopOff:Авто пополнение off
+WindowWithMoney.AutoTopOn:Авто пополнение on
+WindowWithMoney.LetsGo:ВПЕРЁД! 
+WindowWithMoney.BuyIn:БАЙ-ИН
+WindowWithMoney.HowMuchTake:Сколько фишек хотите взять?
+WindowWithMoney.FixBlindTake:Продолжить?
+
+##SitNGoWindowWithMoney
+SitNGoWindowWithMoney.Description:SIT & GO
+SitNGoWindowWithMoney.BuyIn:БАЙ-ИН
+SitNGoWindowWithMoney.1stPlace:1 Место 
+SitNGoWindowWithMoney.2ndPlace:2 Место
+SitNGoWindowWithMoney.BlindsStarts:Начальный блайнд 
+SitNGoWindowWithMoney.BlindsLevels:Каждую 5 партию блайнды увеличиваются
+SitNGoWindowWithMoney.SatrtingChips:Начальное количество фишек
+SitNGoWindowWithMoney.NotEnoughMoney:У вас недостаточно денег
+SitNGoWindowWithMoney.LetsGo:ВПЕРЁД!
+SitNGoWindowWithMoney.TryAgain:ЕЩЁ РАЗ
+
+##SitNGoFinishWindow
+SitNGoFinishWindow.Name:SIT & GO
+SitNGoFinishWindow.Congratulations:Поздравляем!
+SitNGoFinishWindow.Lose:Неплохо!
+SitNGoFinishWindow.1stPlace:Вы заняли 1ое место
+SitNGoFinishWindow.2ndPlace:Вы заняли 2ое место
+SitNGoFinishWindow.3rdPlace:Вы заняли 3е место
+SitNGoFinishWindow.4thPlace:Вы заняли 4ое место
+SitNGoFinishWindow.5thPlace:Вы заняли 5ое место
+SitNGoFinishWindow.YouWon:Вы выиграли
+SitNGoFinishWindow.TryAgain:ЕЩЁ РАЗ
+
+##LuckySpin
+LuckySpin.Spin:СПИН
+LuckySpin.YouWon:Вы выиграли
+LuckySpin.Chips:Фишки
+LuckySpin.SpinFree:БЕСПЛАТНО
+LuckySpin.NoThanks:НЕТ, СПАСИБО
+LuckySpin.GetChips:ПОЛУЧИТЬ ФИШКИ
+LuckySpin.Quit:ВЫХОД
+
+##Worlds
+Worlds.Chillout:ЧИЛЛ АУТ
+Worlds.Insomnia:БЕССОННИЦА
+Worlds.Underground:ПОДЗЕМЕЛЬЕ
+Worlds.Business:БИЗНЕС
+
+##WorldsInside
+WorldsInside.JokerPoker:Joker Poker
+WorldsInside.TexasPoker:Texas Poker
+WorldsInside.RoyalPoker:Royal Poker
+WorldsInside.SitNGo:Sit & Go
+
+##Chillout
+Chillout.Name:ЧИЛЛ АУТ
+Chillout.RivieraHotel:Riviera Hotel
+Chillout.ShishaBar:Shisha Bar
+Chillout.BeachClub:Beach Club
+Chillout.IbizaDisco:Ibiza Disco
+Chillout.WetDeskLounge:Wet Desk Lounge
+Chillout.TropicalHouse:Tropical House
+Chillout.Description:Расслабься и играй
+
+##Insomnia
+Insomnia.Name:БЕССОННИЦА
+Insomnia.SevenNightsClub:Seven Nights Club
+Insomnia.MirageCasino:Mirage Casino
+Insomnia.CityDreamsResort:City Dreams Resort
+Insomnia.SunriseCafe:Sunrise Cafe
+Insomnia.BlueMoonYacht:Blue Moon Yacht
+Insomnia.Description:Твоя мечта очень близко
+
+##Underground
+Underground.Name:ПОДЗЕМЕЛЬЕ
+Underground.DesertCaveHotel:Desert Cave Hotel
+Underground.GoldMine:Gold Mine
+Underground.ImperialBunker:Imperial Bunker
+Underground.Description:Испытай свою удачу
+
+##Business
+Business.Name:БИЗНЕС
+Business.TradesmanClub:Tradesman Club
+Business.MillenniumHotel:Millennium Hotel
+Business.FortuneHippodrone:Fortune Hippodrone
+Business.HeritageBank:Heritage Bank
+Business.Description:Играй с умом
+
+##DailyGoals
+DailyGoals.DailyGoals:Ежедневные задания
+DailyGoals.Get:ПОЛУЧИТЬ
+DailyGoals.ReceiveAll:СОБРАТЬ ВСЁ
+
+##DailyTasks
+DailyTasks.Task1:Выиграть с Одной Парой 5 раз
+DailyTasks.Task2:Выиграть с Двумя Парами 3 раза
+DailyTasks.Task3:Выиграть с Сетом 1 раз
+DailyTasks.Task4:Выиграть со Стритом 1 раз
+DailyTasks.Task5:Выиграть с Флешем 1 раз
+DailyTasks.Task6:Выиграть с Фулл Хаус 1 раз
+DailyTasks.Task7:Выиграть с Каре 1 раз
+DailyTasks.Task8:Выиграть 50 000 фишек
+DailyTasks.Task9:Выиграть 100 000 фишек
+DailyTasks.Task10:Выиграть 250 000 фишек
+DailyTasks.Task11:Выиграть 10 рук
+DailyTasks.Task12:Сыграть 20 рук
+DailyTasks.Task13:Сыграть 10 рук на одном столе
+DailyTasks.Task14:Сыграть на трёх разных столах
+DailyTasks.Task15:Пойти Олл-Ин и победить
+DailyTasks.Task16:Фолд с Сетом на руках
+DailyTasks.Task17:Фолд с Двумя Парами
+DailyTasks.Task18:Фолд со Стритом
+DailyTasks.Task19:Сыграть в Sit&Go
+DailyTasks.Task20:Сыграть в Joker
+DailyTasks.Task21:Сыграть в Royal
+
+##DailyReward
+DailyReward.ComeBack:Возвращайся каждый день и забирай свою награду
+DailyReward.Dailyreward:Ежедневная награда
+DailyReward.Claim:СОБРАТЬ
+
+##Combinations
+Combinations.None:
+Combinations.HighValue:Старшая карта
+Combinations.HighCard:Старшая карта
+Combinations.Pair:Пара
+Combinations.OnePair:Пара
+Combinations.TwoPair:Две пары
+Combinations.TwoPairs:Две пары
+Combinations.ThreeOfAKind:Сет
+Combinations.FourOfAKind:Каре
+Combinations.Straight:Стрит
+Combinations.Flush:Флеш
+Combinations.FullHouse:Фулл Хаус
+Combinations.StraightFlush:Стрит флеш
+Combinations.RoyalFlush:Ройял флеш
+Combinations.FiveOfAKind:Каре с джокером
+
+##OnTable
+OnTable.Dealer:ДИЛЕР
+OnTable.WaitingMessage:Пожалуйста, дождитесь новой игры
+OnTable.WaitingForPlayersMessage:Ожидание других игроков
+
+##WinnerMessage
+WinnerMessage.WinnerIs:Победил
+WinnerMessage.WithCombination:с комбинацией
+
+##ActionOnTable
+ActionOnTable.Call:КОЛЛ
+ActionOnTable.CallWaiting:КОЛЛ ТЕКУЩЕЙ
+ActionOnTable.CallAny:КОЛЛ ЛЮБОЙ
+ActionOnTable.Check:ЧЕК
+ActionOnTable.Fold:ФОЛД
+ActionOnTable.Raise:РЕЙЗ
+ActionOnTable.Bet:БЕТ
+ActionOnTable.AllIn:ОЛЛ-ИН
+ActionOnTable.Bank:БАНК
+ActionOnTable.BlindX6:БЛАЙНД x6
+ActionOnTable.BlindX2:БЛАЙНД x2
+
+##HiddenMenu
+HiddenMenu.ExitToLobby:ВЫХОД В ЛОББИ
+HiddenMenu.LeaveTable:ПОКИНУТЬ СТОЛ
+HiddenMenu.SwitchTable:ПОМЕНЯТЬ СТОЛ
+HiddenMenu.Settings:НАСТРОЙКИ
+HiddenMenu.Inventory:ИНВЕРНТАРЬ
+
+##ConfirmWindow
+ConfirmWindow.AreYouSure:Вы уверены?
+ConfirmWindow.Yes:ДА
+ConfirmWindow.No:НЕТ
+ConfirmWindow.WinMoney:Вы выиграли на этом столе
+ConfirmWindow.SitNGo:Вы потеряете свой БАЙ-ИН
+
+##ShopView
+ShopView.Shop:МАГАЗИН
+ShopView.Bigcoins:БИГКОИНС
+ShopView.Spin:СПИН
+ShopView.Hand.0:ОТЛИЧНАЯ РУКА
+ShopView.Hand.1:СЧАСТЛИВАЯ РУКА
+ShopView.Hand.2:ВЕЗУЧАЯ РУКА
+ShopView.Hand.3:МАГИЧЕСКАЯ РУКА
+ShopView.WinUpTo:ШАНС ВЫЙГРАТЬ
+ShopView.LetsRoll:КРУТИТЬ
+ShopView.YouWon:Вы выиграли
+ShopView.Nice:ОТЛИЧНО
+ShopView.Chips:Фишки
+ShopView.ChoosePayment:Выберите способ оплаты
+ShopView.Cancel:Отменить
+
+##Chat
+Phrase.Hi:Привет
+Phrase.NotMyDay:Не мой день
+Phrase.GoodLuck:Удачи
+Phrase.Cool:Круто
+Phrase.ThankYou:Спасибо
+Phrase.Bluff:Блеф
+Phrase.CalmDown:$#%@!!!
+Phrase.Really:Реально?
+Phrase.HaveToGo:Мне надо идти!
+Phrase.Lucky:Везунчик
+Phrase.GoodGame:Отличная игра
+Phrase.HaHaHa:Ха-ха-ха
+Phrase.Yes:Да
+Phrase.No:Нет
+Phrase.Sleep:Zzzz...
+Phrase.SeeYouLater:Увидимся
+Phrase.Sorry:Извини
+Phrase.NiceHand:Хорошая рука
+
+##Gifts
+Gifts.Header:Подарки
+Gifts.Table:Стол
+Gifts.Player:Игрок
+
+##Authentication
+Signing.Reconnecting:Потеряно соединение. Переподключение...
+Signing.NoEnternet:Подключение к Интернету отсутствует. Проверьте подключение...
+Signing.Connecting:Подключение к серверу...
+Signing.Authentication:Авторизация. Пожалуйста, подождите.
+Signing.AuthWindow:Вход
+Signing.Guest:Продолжить как Гость
+Signing.Google:Войти через Google
+Signing.Facebook:Войти через Facebook
+Signing.Apple:Войти через Apple
+Signing.PlayerHasAlreadyAuthorized:Пожалуйста, отключите игру на другом браузере или устройстве и попробуйте авторизироваться снова через несколько секунд
+Signing.Notification:Уведомление
+Signing.OK:ОК
+Signing.ServerNotWorking:Извините, неполадки с сервером. Попробуйте позже
+Signing.ServerVersionDismatch:Пожалуйста, обновите приложение
+
+##Registration
+Registration.Header:Регистрация
+Registration.InputName:Введите имя
+Registration.NamePlaceholder:Имя
+Registration.InputGender:Выберите пол
+Registration.Male:Мужской
+Registration.Female:Женский
+Registration.ChooseHands:Выберите руки
+Registration.Policy:Я принимаю пользовательское соглашение
+Registration.Continue:Продолжить
+
+##ProfileEditing
+ProfileEditing.Profile:Профиль
+ProfileEditing.Name:Имя
+ProfileEditing.Gender:Пол
+ProfileEditing.Male:Мужской
+ProfileEditing.Female:Женский
+ProfileEditing.Hands:Руки
+ProfileEditing.Apply:Применить
+
+##OpenCardsDialogue
+OpenCardsChoise.Question:Показать карты?
+OpenCardsChoise.PlayerChoise:Игрок думает о показе карт
+OpenCardsChoise.Yes:Да
+OpenCardsChoise.No:Нет
+
+##LastCombinationPanel
+LastCombination.Distribution:Результаты последнего раунда
+LastCombination.TableCards:Карты на столе
+
+##FriendsPanel
+FriendsPanel.SendTextMessage:Отправить
+FriendsPanel.Friends:Друзья
+FriendsPanel.Requests:Запросы
+FriendsPanel.CodeForFriends:Код для отправки друзьям
+FriendsPanel.AddToFriendText:Добавить в друзья
+FriendsPanel.InviteToFriendText:Пригласить в друзья
+FriendsPanel.EnterCodeHere:Вводить код здесь
+FriendsPanel.EnterCode:Введи код
+FriendsPanel.SendCode:Отправить код
+FriendsPanel.SendReference:Отправить ссылку
+FriendsPanel.SendReferenceToClipboard:Отправить ссылку в буфер обмена
+FriendsPanel.Ready:Готово
+FriendsPanel.RequestToAddingSend:Запрос отправлен
+FriendsPanel.DeleteFriend:Удалить друга
+FriendsPanel.SureToDeleteFriend:Вы действительно хотите удалить друга?
+FriendsPanel.Notification:Уведомление
+FriendsPanel.FriendNotPlaying:Ваш друг на данный момент не играет в покер. Попробуйте позже
+FriendsPanel.NoSits:К сожалению, сейчас нет свободных мест на столе. Попробуйте позже
+FriendsPanel.FriendPlaying:Ваш друг на данный момент играет в покер. Попробуйте позже
+FriendsPanel.Copy:Скопировать
+FriendsPanel.WrongCode:Неверный код
+FriendsPanel.Share:Поделиться
+FriendsPanel.Yes:Да
+FriendsPanel.ConnectToTable:Подключиться к столу
+FriendsPanel.InviteToTable:Пригласить на стол
+FriendsPanel.Accept:Принять
+FriendsPanel.Refuse:Отказать
+FriendsPanel.InvitationToFriend:Приглашение друга за стол
+FriendsPanel.YourFriendInvitesYou:Ваш друг приглашает Вас за стол
+FriendsPanel.PersonalChat:Личный чат
+FriendsPanel.SendMessage:Отправить
+FriendsPanel.EnterMessage:Ввести сообщение
+FriendsPanel.OK:ОК
+FriendsPanel.SitnGoStarted:К сожалению, Sit&Go игра уже началась. Попробуйте позже
+FriendsPanel.Sent:Отправлено
+FriendsPanel.InvitingText:Ваш друг {0} приглашает Вас за стол
+FriendsPanel.TableName:Название стола
+FriendsPanel.TableType:Тип стола
+FriendsPanel.PlayerCount:Количество игроков
+FriendsPanel.RequestHasAlreadySent:Игрок уже отправил Вам запрос в друзья
+FriendsPanel.FreindHasLeavedFromTable:Ваш друг уже не играет за этим столом
+FriendsPanel.YourFriend:Ваш друг
+FriendsPanel.YouHaveAlreadySent:Вы уже отправили запрос
+FriendsPanel.IsYourFriendAlready:Игрок уже Ваш друг
+FriendsPanel.FriendNotification:Запрос в друзья
+
+##TableInfo
+TableInfo.TexasPoker:Самый популярный вариант покера в современном мире. Игра с двумя закрытыми картами и пятью общими картами, которые используются всеми игроками для составления комбинаций
+TableInfo.RoyalPoker:Особый вид покера, в котором по правилам техасского покера играются только самые высокие карты. Рассчитывая свои шансы на победу, не забывайте, что в игре участвуют только самые высокоуровневые карты. Комбинации, которые могут быть довольно сильными в обычном покере, могут оказаться одними из самых слабых за столом в ROYAL POKER
+TableInfo.JokerPoker:Joker Poker - распространенная разновидность техасского покера. Эта универсальная карта делает игру более непредсказуемой и увеличивает шансы составить редкие комбинации, такие как флеш-рояль, стрит-флеш и каре. При игре в Joker Poker важно знать, как составляются покерные комбинации с помощью джокера, и понимать значение их рук
+TableInfo.SitnGo:Покерный турнир для 5 игроков, который начинается, когда все места заняты. Призовой фонд состоит из BUY-IN игроков. Победитель получает максимальный выигрыш, а игрок, занявший второе место, возвращает свой BUY-IN. Игроки начинают с фиксированной суммы в соответствии с уровнем турнира, а блайнды повышаются каждые 4 хода
+TableInfo.DashPoker:Классический техасский покер, но при сбросе карты вы сразу же переходите к раздаче новой руки с новыми противниками
+TableInfo.OK:ОК
+TableInfo.AutoTop:Автопополнение
+TableInfo.AutoTopInfo:Автопополнение инфо
+
+##NewPlayer
+NewPlayer.Welcome:Добро пожаловать в Poker Hand
+NewPlayer.Reward:Вам начислено
+
+##Share
+Share.Message:Сыграй в покер в Poker Hand!{3}Играй бесплатно{2} {0}{3}Используй мой код {1}, чтобы сыграть со мной вместе!
+
+##MoneyBox
+MoneyBox.Open:Открыть
+MoneyBox.Notification:Уведомление
+MoneyBox.NothingToOpen:В данный момент копилка пуста
+MoneyBox.OK:ОК
+
+##Ads
+Ads.Notification:Уведомление
+Ads.NoAdsAvaible:В данный момент реклама недоступна
+Ads.OK:ОК
+
+##RatingWindow
+RatingWindow.PercentAmount:Вы входите в {0}% игроков
+RatingWindow.Local:Локально
+RatingWindow.Global:Общий
+RatingWindow.You:Вы
+RatingWindow.TopPlayers:Лучшие игроки
+
+##DeleteUser
+DeleteUser.Title:Удалить аккаун
+DeleteUser.Messenger:Подтвердить удаление аккаунта?
+DeleteUser.Yes:Да
+DeleteUser.No:Нет
